@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Box Model with Image</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="box">
+    <p>This is a box with an image using the CSS box model:</p>
+    <img src="https://via.placeholder.com/150" alt="Sample Image">
+  </div>
+
+</body>
+</html>
